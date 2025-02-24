@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **mayankkumar2777@gmail.com**
 
-- ⚡ Fun fact **I think i am fat**
+- ⚡ Fun fact ** I am into gaming with coding**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
