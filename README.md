@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [Ims Project](https://github.com/Retarded23/rezohackathon.git)
+- 🔭 I’m currently working on [OncoSense – AI-Powered Hospital Management System](https://github.com/ogjash/OncoSense)
 
 - 🌱 I’m currently learning **Web dev**
 
-- 💬 Ask me about **Html**
+- 💬 Ask me about **BaCkEnD**
 
 - 📫 How to reach me **mayankkumar2777@gmail.com**
 
