@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Web dev**
 
-- 💬 Ask me about **BaCkEnD**
+- 💬 Ask me about **BACKEND**
 
 - 📫 How to reach me **mayankkumar2777@gmail.com**
 
