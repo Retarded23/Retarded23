@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [OncoSense – AI-Powered Hospital Management System](https://github.com/ogjash/OncoSense)
+- 🔭 I’m currently working on [Weather - Report](https://weather-report-taupe.vercel.app/)](https://github.com/Retarded23/Weather-Report)
 
 - 🌱 I’m currently learning **Web dev**
 
